@@ -10,8 +10,8 @@ package Puente1.modelo;
  * @author Annie
  */
 public class CocheCirculando1 extends Thread {
-  private Puente1 puente;
-private Coche1 coche;
+    private Puente1 puente;
+    private Coche1 coche;
 
     public CocheCirculando1(Puente1 p, Coche1 c) {
         puente = p;
