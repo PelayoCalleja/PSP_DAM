@@ -16,9 +16,7 @@ import Puente1.modelo.CocheCirculando1;
  */
 public class GestionPuente1 {
 
-    /**
-     * @param args the command line arguments
-     */
+ 
     public static void main(String[] args) {
        
         int numCoches=6;
